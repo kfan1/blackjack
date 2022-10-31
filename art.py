@@ -8,9 +8,3 @@ logo = """
       |  \/ K|                            _/ |                
       `------'                           |__/           
 """
-
-# x = ["hello", "goodbye"]
-# for element in range(len(x)):
-#     x[element] = "goodbye"
-#
-# print(x)
